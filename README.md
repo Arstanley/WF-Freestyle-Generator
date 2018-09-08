@@ -7,10 +7,11 @@ This is a Freestyle Word Generator Created for Chinese rappers who want to impro
 **Built With**
 - Swift 4
 - Xcode 11
+## Screen Shots
 ## Versioning
-'''
+```
 1.0.0
-'''
+```
 ## Author
 Bo Ni
 
